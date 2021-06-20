@@ -1,1 +1,7 @@
-[]
+- name: test
+    using:
+      foreign_key_constraint_on:
+        column: id
+        table:
+          schema: public
+          name: test

@@ -1,6 +1,5 @@
-CREATE TABLE "feature"(
-  "name" text NOT NULL,
-  "description" text NOT NULL,
+CREATE TABLE test(
+  "id" text NOT NULL,
   
-  PRIMARY KEY ("name")
+  PRIMARY KEY ("id")
 );

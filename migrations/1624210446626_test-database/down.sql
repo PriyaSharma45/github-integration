@@ -1,1 +1,1 @@
-DROP TABLE "feature";
+DROP TABLE "id";
