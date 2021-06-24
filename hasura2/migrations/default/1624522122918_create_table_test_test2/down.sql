@@ -1,1 +1,1 @@
-DROP TABLE "test"."test3";
+DROP TABLE "test"."test4";

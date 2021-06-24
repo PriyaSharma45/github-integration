@@ -1,1 +1,1 @@
-CREATE TABLE "test"."test3" ("id" integer NOT NULL, PRIMARY KEY ("id") );
+CREATE TABLE "test"."test4" ("id" integer NOT NULL, PRIMARY KEY ("id") );
