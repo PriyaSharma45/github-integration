@@ -1,5 +1,5 @@
 version: 3
-endpoint: https://gitest3.wawhal.in/v1/graphql
+endpoint: https://gitest3.wawhal.in
 metadata_directory: metadata
 actions:
   kind: synchronous
