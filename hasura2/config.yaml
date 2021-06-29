@@ -1,5 +1,5 @@
 version: 3
-endpoint: https://valid-perch-46.hasura.app
+endpoint: https://clean-pheasant-84.cloud-staging-2.hasura.me
 metadata_directory: metadata
 actions:
   kind: synchronous
