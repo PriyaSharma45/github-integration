@@ -1,1 +1,1 @@
-Testing GitHub integration.
+Testing GitHub Integration.
