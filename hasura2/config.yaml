@@ -3,4 +3,4 @@ endpoint: https://clean-pheasant-84.cloud-staging-2.hasura.me
 metadata_directory: metadata
 actions:
   kind: synchronous
-  handler_webhook_baseurl: http://localhost:3000
+  handler_webhook_baseurl: http://localhost:8000
