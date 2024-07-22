@@ -1,1 +1,1 @@
-Test github integration in pro
+Test github integration
