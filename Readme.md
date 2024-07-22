@@ -1,1 +1,1 @@
-Test GitHub integration with Hasura.
+Test Hasura's GitHub integration feature.
